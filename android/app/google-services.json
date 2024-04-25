@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "782408087540",
+    "firebase_url": "https://company-cced4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "company-cced4",
+    "storage_bucket": "company-cced4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782408087540:android:f54440b6693101264aaba1",
+        "android_client_info": {
+          "package_name": "com.example.company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeCI7VTrf7tQGiyJ3yiEOzLTW88dbdgqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
